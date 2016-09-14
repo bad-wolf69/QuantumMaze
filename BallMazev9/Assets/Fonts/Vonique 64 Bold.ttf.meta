@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: da08bc75ff0dac249aa7fbbb0bbf6215
+timeCreated: 1471973734
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Vonique 64
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b9e8b6258fa6a46418b0a34c9dbb657c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
